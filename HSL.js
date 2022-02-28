@@ -1,4 +1,4 @@
-<script>
+
     document.addEventListener("DOMContentLoaded", function(event) {
         var player = new Plyr(document.getElementById('player'), {
             //debug: true
@@ -24,4 +24,4 @@
                 }
             });
     });
-</script>
+
